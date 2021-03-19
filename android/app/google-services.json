@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804291713979",
+    "project_id": "fir-playground-8c20f",
+    "storage_bucket": "fir-playground-8c20f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804291713979:android:db1efc378a0926ba05c29e",
+        "android_client_info": {
+          "package_name": "com.example.wax_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804291713979-v1hnbgcfdbl0e4uu6ujcge7n3id59oc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_dWCbF7Fe1B5NPW9lKErjACx7rW4QJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804291713979-v1hnbgcfdbl0e4uu6ujcge7n3id59oc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
